@@ -39,3 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ![STAR LOGO Saved In Local](/Desktop/BigDataClass/GEOG594-anagha/BDA594-Anaghakatthe/logo-Final.jpg)
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjyr6C7usbkAhW1ITQIHUQqDBgQjRx6BAgBEAQ&url=http%3A%2F%2Fghanipoor.sdsu.edu%2FSTAR.html&psig=AOvVaw3tx9RPBhPJyiRHRNfNf8Cw&ust=1568211825481949
