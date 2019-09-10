@@ -38,5 +38,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-![STAR LOGO Saved In Local](/Desktop/BigDataClass/GEOG594-anagha/BDA594-Anaghakatthe/logo-Final.jpg)
-![STAR-LAB SDSU](https://www.google.com/search?q=starlab+sdsu+images&sxsrf=ACYBGNS95L-S57l92HXRle9DExof5S2KOA:1568125406200&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCwqmuusbkAhXYJTQIHfvxBacQ_AUIEigB&biw=1280&bih=600#imgrc=kc8DShNtG9GbOM:)
+
+![HDMA SDSU](https://humandynamics.sdsu.edu/images/HDMA_Logo.png)
